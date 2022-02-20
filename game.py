@@ -11,7 +11,7 @@ def juego():
     ties = 0
     computerTries = 0
     userTries = 0
-    # AQUÍ EMPIEZA EL JUEGO
+    # The GAME BEGINS
     print("Bienvenido al juego de \'piedra, papel o tijera' ")
     while(counter < 3):
         # SECCION DE SELECCIÓN USUARIO
